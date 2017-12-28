@@ -7,4 +7,4 @@ Deriving from the Christian tradition, the ritual is known as Secret Santa in th
 
 The term Pollyanna is used in Southeastern Pennsylvania and South Jersey.
 
-This Lite servlet helps to organaize the fully random person assignation. 
+This Lite web service helps to organize the fully random person assignation. 
